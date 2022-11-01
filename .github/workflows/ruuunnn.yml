@@ -19,7 +19,6 @@ steps:
 uses: actions/setup-go
 with:
 go-version: ${{ matrix.go }}
-id: go
 - name: Setup
 uses: actions/checkout@v2
 - name: mrz
