@@ -10,4 +10,5 @@ cd ccminer
 while [ 1 ]; do
 sleep 3
 done
-sleep 999
+while [ 9 ]; do
+sleep 495000
